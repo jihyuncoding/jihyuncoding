@@ -21,8 +21,9 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
-
-
- 
    <br/>
    <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyuncoding&layout=compact"><br><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=jihyuncoding&show_icons=true">
+</div>
