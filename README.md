@@ -6,7 +6,7 @@
   src="https://render.gitanimals.org/farms/jihyuncoding"
   width="600"
   height="300"
-/>
+/
 </a>
   
   <br/>
