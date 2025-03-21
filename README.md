@@ -4,7 +4,7 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jihyuncoding&utm_content=farm">
     <img
       src="https://render.gitanimals.org/farms/jihyuncoding"
-      width="900"
+      width="600"
       height="300"
     />
   </a>
