@@ -1,5 +1,4 @@
-
-<div align="center"> 
+####  :wave: Welcome my github profile !
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jihyuncoding&utm_content=farm">
 <img
@@ -7,16 +6,6 @@
   width="600"
   height="300"
 />
-</a>
-  
-####  :wave: Welcome my github profile !
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jihyuncoding&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/jihyuncoding"
-    width="600"
-    height="120"
-  />
 </a>
 
   
