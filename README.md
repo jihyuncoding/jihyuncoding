@@ -1,7 +1,13 @@
 
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=Rect&color=cbb8f8&height=150&section=header&text=ParkJihyun&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jihyuncoding&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jihyuncoding"
+  width="600"
+  height="300"
+/>
+</a>
   
 ####  :wave: Welcome my github profile !
 
