@@ -1,8 +1,8 @@
 <h3 align="center">👋 Welcome to My GitHub!</h3>
 
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/jihyuncoding/jihyuncoding/blob/output/github-contribution-grid-snake.svg)
+### ⏱️ Weekly Coding Time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jihyuncoding&utm_content=farm">
