@@ -1,5 +1,9 @@
 <h3 align="center">👋 Welcome to My GitHub!</h3>
 
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/jihyuncoding/jihyuncoding/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jihyuncoding&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/jihyuncoding" width="600" height="300" />
